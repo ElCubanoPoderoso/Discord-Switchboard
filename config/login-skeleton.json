@@ -1,0 +1,10 @@
+Use this skeleton and create a login.json file with this setup.
+{
+  "credentials": {
+    "email": "",
+    "password": "",
+    "autorun": "false"
+  },
+  "loginKey": "alt+l",
+  "logoutKey": "alt+o"
+}

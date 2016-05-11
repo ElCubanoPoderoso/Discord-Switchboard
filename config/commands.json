@@ -1,0 +1,10 @@
+[
+  {
+    "name" : "Greet",
+    "hotkey" : "alt+t",
+    "content" : {
+      "message" : "",
+      "to" : ""
+    }
+  }
+]
